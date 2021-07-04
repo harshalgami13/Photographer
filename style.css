@@ -4,6 +4,10 @@
 font-family: 'Rubik', sans-serif;
 font-family: 'Satisfy', cursive;
 */
+html{
+scroll-behavior: smooth;
+}
+
 :root{
     --main-color: #f04e3c;
     --darkbg-color: #080808;
